@@ -1160,3 +1160,10 @@ product/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
 # FOD Calibration
 etc/goodix/BMatrix.so|28e9ff5f39e36b92ac3b7633b3847def8e6949e3
 etc/goodix/caliParamsInfo.so|95a4668aa54107250e416af070d9e93c6e3b243c
+
+# Improve touch
+vendor/lib/vendor.qti.hardware.improvetouch.touchcompanion@1.0.so
+vendor/lib/vendor.qti.hardware.improvetouch.touchcompanion@1.0-service.so
+vendor/lib64/vendor.qti.hardware.improvetouch.touchcompanion@1.0.so
+vendor/lib64/vendor.qti.hardware.improvetouch.touchcompanion@1.0-service.so
+-vendor/app/com.qualcomm.qti.improvetouch.service/com.qualcomm.qti.improvetouch.service.apk
