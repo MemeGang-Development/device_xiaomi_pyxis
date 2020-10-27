@@ -30,6 +30,9 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 EXTRA_FOD_ANIMATIONS := true
 TARGET_HAS_FOD := true
 
+# WallPapers
+BUILD_RR_WALLPAPERS := true
+
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
