@@ -331,7 +331,6 @@
     </path>
 
     <path name="spkr-vi-record">
-        <ctl name="PRI_MI2S_RX_VI_FB_MUX" value="PRI_MI2S_TX" />
     </path>
 
     <path name="compress-voip-call speaker">
