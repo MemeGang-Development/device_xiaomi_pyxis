@@ -21,5 +21,8 @@
 <resources>
 
     <!-- Bottom margin size when fingerprint in display is active -->
-    <dimen name="keyguard_indication_margin_bottom_fingerprint_in_display">350dp</dimen>
+    <dimen name="keyguard_indication_margin_bottom_fingerprint_in_display">25dp</dimen>
+
+    <!-- The minimum bottom margin of the keyguard security container -->
+    <dimen name="kg_security_container_min_bottom_margin">240dp</dimen>
 </resources>
